@@ -1,0 +1,143 @@
+hash-format = "sha256"
+
+[[files]]
+file = "CHANGELOG.md"
+hash = "b6cad2ead50758c4319b1c5b97d942a3bc990f69913e05c81f49e62a04d5f6df"
+
+[[files]]
+file = "config/fancymenu/config.txt"
+hash = "a68403d921757907ccc6db84c8ad9c857b437bfc52215638f0e94a9bf043ee63"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "cbd93e8f34f681b071aadadb0059b80be1e224b1d4bfd0ebe17ecf7ea22c6aed"
+
+[[files]]
+file = "config/fancymenu/customization/wynn.txt"
+hash = "75be5259f7aa99a921d88bfda65e3ffdb43356996a0b356ede9f030a972bfd8a"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/fancymenu/panoramas/wynn/panorama/panorama_0.png"
+hash = "97adf8510409c53c18df582bd15c850c6ecc9160d388181f0dd1efde7cd208e3"
+
+[[files]]
+file = "config/fancymenu/panoramas/wynn/panorama/panorama_1.png"
+hash = "d2a459db13600508e6cdaaefa386cb49738e0b3939ad45716d008ae8b30fb70c"
+
+[[files]]
+file = "config/fancymenu/panoramas/wynn/panorama/panorama_2.png"
+hash = "535677c3fea5d236b22f1aee7c1eefcee5d1d5b825900ee489101afb170a62bb"
+
+[[files]]
+file = "config/fancymenu/panoramas/wynn/panorama/panorama_3.png"
+hash = "5e4268f2953805ab0c48bc32a087077e58ff9e067cf9dfecec16b08a097d8f1f"
+
+[[files]]
+file = "config/fancymenu/panoramas/wynn/panorama/panorama_4.png"
+hash = "65adc77bf14c3db336e538b1525b5e492b65435b66a147748d3032f29d0f560c"
+
+[[files]]
+file = "config/fancymenu/panoramas/wynn/panorama/panorama_5.png"
+hash = "3a22e3be99980697218cd995c7de3c963e01ed9294fd8739b1109d39f4b22192"
+
+[[files]]
+file = "config/fancymenu/panoramas/wynn/panorama/panorama_overlay.png"
+hash = "4cabea349b45c137de6ab4472303fb20fb94b07a119c8926aa54575ffbab91e6"
+
+[[files]]
+file = "config/fancymenu/panoramas/wynn/properties.txt"
+hash = "7f5b21dc7b9def5ee98c9a4b2fddc78ee5c8a0620c07e18f787002c7a1ac2386"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "655d37e4978ade07621dd085b097d61dfe840cf07a226374650c4fdd407a2196"
+
+[[files]]
+file = "config/fancymenu/wynn/wynncraft_logo.png"
+hash = "d6ca61843ad84e0c0f93fca5ed2a6f6ee9a8aadf898ffd312ad5323263df0448"
+
+[[files]]
+file = "config/version.txt"
+hash = "0aa4a701f0ca877746e58d0b56e783a0a0d9d3c7a6c6a17eedc7a79e23b20164"
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "f2f03bfada070a0dc0e1078070b830d24b1bbf18c1ecf9c7af7079047e2802e0"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "714158dafbd5954a8024d5b7e677fc1303d1c0bc665c7df5942d3a685904988e"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "65d2038f170287c9a8f1cdb79cb8d2f5f15ad5112ab561737c9c0ded428e961b"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "e00070f0db00ebcd304f8f68fd44e59ceaedbc8c27743c9c195134aae57c5fde"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "d75446972bdb7bdaa4c16b366557b167690649d0f916a24947ff2b6bc6b33821"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "ed27ecb297016accc41e9894b6e11d6c46b455211e358afa6218ce629ef56978"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "74466c118cfcd7b89ccfc3841a4bf9421e762079b584807ca8651d6145b3afd8"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c17482466c51fbe36f2338454adcc3e028ed05a6c5788c5db963ece3e6921c80"
+metafile = true
+
+[[files]]
+file = "mods/ok-boomer.pw.toml"
+hash = "2390504b56605e6464ecddda031cb221d46871437ecb4035783feb67faa1bff1"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "a9f4f363f18b90462ca362bbe0179a3150a801a960ff81044b7ad47aa468be73"
+metafile = true
+
+[[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "4c68221184b1a5327b2454e46f5b7229be293163af2ef8ffb49927de9f878c86"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "553647e9ecf92299592270db15b632d0199c0637d37cf8398af9598981dcbc28"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "2b9e4dbe7305540ed0bac103f8ba47a36307a3a194dda91b5886a2caf4712d0a"
+metafile = true
+
+[[files]]
+file = "mods/wynntils.pw.toml"
+hash = "3cc5f7d6f9e485bb66cff92bf8441e4833e799c78ab8231fcb86d432d4f9c6d9"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "3fd60d2e016b5c27261dea18b3b9bbc737893644923a0eba9e5e5cbdd1364440"
+
+[[files]]
+file = "servers.dat"
+hash = "fe802fe3c4fa7db905a7cb52ac50f18295d48ae695072bb8ec3b287677a64e2e"

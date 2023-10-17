@@ -1,7 +1,0 @@
-type = cached_variables
-
-variables {
-  wynn_ip = play.wynncraft.com
-  region_wynn = us
-}
-
