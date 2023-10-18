@@ -1,5 +1,38 @@
 # Changelog
 
+## 0.1.0 (2023-10-18)
+
+
+### ★ Features
+
+* Remove Forge support ([2a234de](https://github.com/Aninuscsalas/wynncraft-101/commit/2a234de8d58b9a4077943b2fc441b7a494c3eaa7))
+* **root:** Initialized repo with modpack and ci ([2c3c89a](https://github.com/Aninuscsalas/wynncraft-101/commit/2c3c89aedb67948c9245b8ec331c083c365a7368))
+
+
+### ♻ Bug Fixes
+
+* **config:** Fix Ok Boomer Crash ([2a234de](https://github.com/Aninuscsalas/wynncraft-101/commit/2a234de8d58b9a4077943b2fc441b7a494c3eaa7))
+* **config:** Set soundCategory_music to 0 ([2a234de](https://github.com/Aninuscsalas/wynncraft-101/commit/2a234de8d58b9a4077943b2fc441b7a494c3eaa7))
+
+
+### ☀ Modpack Changes
+
+* **mods:** Added ModernFix ([2a234de](https://github.com/Aninuscsalas/wynncraft-101/commit/2a234de8d58b9a4077943b2fc441b7a494c3eaa7))
+* **mods:** Replaced Ok Zoomer with Ok Boomer ([2a234de](https://github.com/Aninuscsalas/wynncraft-101/commit/2a234de8d58b9a4077943b2fc441b7a494c3eaa7))
+* **mods:** Replaced QSL with Fabric API ([2a234de](https://github.com/Aninuscsalas/wynncraft-101/commit/2a234de8d58b9a4077943b2fc441b7a494c3eaa7))
+
+
+### ⚘ Modpack Updates
+
+* **minecraft:** Update to 1.20.2 ([2a234de](https://github.com/Aninuscsalas/wynncraft-101/commit/2a234de8d58b9a4077943b2fc441b7a494c3eaa7))
+* **mods:** Update mods ([2a234de](https://github.com/Aninuscsalas/wynncraft-101/commit/2a234de8d58b9a4077943b2fc441b7a494c3eaa7))
+* **quilt:** Update to 0.21.0 ([2a234de](https://github.com/Aninuscsalas/wynncraft-101/commit/2a234de8d58b9a4077943b2fc441b7a494c3eaa7))
+
+
+### ⛭ Miscellaneous
+
+* **main:** release 0.1.0 ([d822604](https://github.com/Aninuscsalas/wynncraft-101/commit/d8226048949c8f9ffa37e7a9776ff49dba46c595))
+
 ## 0.1.0 (2023-10-17)
 
 
