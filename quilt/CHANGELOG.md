@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.1.1](https://github.com/Aninuscsalas/wynncraft-101/compare/quilt-v0.1.0...quilt-v0.1.1) (2023-10-31)
+
+
+### ♻ Bug Fixes
+
+* **mods:** Fix Wynncraft Content book bug ([dace462](https://github.com/Aninuscsalas/wynncraft-101/commit/dace4624a07550a6d2676fda4395b30114f30a4f))
+
+
+### ⚘ Modpack Updates
+
+* **mods:** Updated Fabric API ([dace462](https://github.com/Aninuscsalas/wynncraft-101/commit/dace4624a07550a6d2676fda4395b30114f30a4f))
+* **mods:** Updated FancyMenu ([dace462](https://github.com/Aninuscsalas/wynncraft-101/commit/dace4624a07550a6d2676fda4395b30114f30a4f))
+* **mods:** Updated Konkrete ([dace462](https://github.com/Aninuscsalas/wynncraft-101/commit/dace4624a07550a6d2676fda4395b30114f30a4f))
+* **mods:** Updated ModernFix ([dace462](https://github.com/Aninuscsalas/wynncraft-101/commit/dace4624a07550a6d2676fda4395b30114f30a4f))
+* **mods:** Updated Wynntils ([dace462](https://github.com/Aninuscsalas/wynncraft-101/commit/dace4624a07550a6d2676fda4395b30114f30a4f))
+* **quilt:** Updated to 0.21.1 ([dace462](https://github.com/Aninuscsalas/wynncraft-101/commit/dace4624a07550a6d2676fda4395b30114f30a4f))
+
 ## 0.1.0 (2023-10-18)
 
 
