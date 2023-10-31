@@ -71,12 +71,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "714158dafbd5954a8024d5b7e677fc1303d1c0bc665c7df5942d3a685904988e"
+hash = "0907369c09747fe4604381ce134fe19fbb6bbf1687a8294e3defdfd33c6ea46a"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "65d2038f170287c9a8f1cdb79cb8d2f5f15ad5112ab561737c9c0ded428e961b"
+hash = "b0ac4eea0182de620ab8b7cba600ab51bb6ecef053d4a2d1f8584900c0c6d065"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "d75446972bdb7bdaa4c16b366557b167690649d0f916a24947ff2b6bc6b33821"
+hash = "b60b47aaffed67b9b59b99f776b9f261281ac0d5b46898edd4b69904ff98671e"
 metafile = true
 
 [[files]]
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "74466c118cfcd7b89ccfc3841a4bf9421e762079b584807ca8651d6145b3afd8"
+hash = "908c65f0cf2b42a1889f4d8712d5976341ec1b5c77a629dad6eee105de6c6ab3"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "3cc5f7d6f9e485bb66cff92bf8441e4833e799c78ab8231fcb86d432d4f9c6d9"
+hash = "ed90be5309c8bea56b9caaa3d59d9cfefe746e79adfdd984ba51d74d8a844279"
 metafile = true
 
 [[files]]

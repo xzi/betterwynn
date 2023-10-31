@@ -1,13 +1,13 @@
 name = "Wynntils"
-filename = "wynntils-0.0.4-beta.38-fabric+MC-1.20.2.jar"
+filename = "wynntils-0.0.4-beta.55-fabric+MC-1.20.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dU5Gb9Ab/versions/4Pr7j8Rb/wynntils-0.0.4-beta.38-fabric%2BMC-1.20.2.jar"
+url = "https://cdn.modrinth.com/data/dU5Gb9Ab/versions/cDdkprKd/wynntils-0.0.4-beta.55-fabric%2BMC-1.20.2.jar"
 hash-format = "sha1"
-hash = "f60056db99fd0720bcc6dabfeb500b04c151a75b"
+hash = "dc966d68e23089c3bd6132b05fed2cf6a4058355"
 
 [update]
 [update.modrinth]
 mod-id = "dU5Gb9Ab"
-version = "4Pr7j8Rb"
+version = "cDdkprKd"
