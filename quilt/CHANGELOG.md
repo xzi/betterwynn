@@ -1,5 +1,30 @@
 # Changelog
 
+## [0.2.0](https://github.com/Aninuscsalas/wynncraft-101/compare/quilt-v0.1.1...quilt-v0.2.0) (2023-11-21)
+
+
+### ★ Features
+
+* Added Shader support ([83dadc0](https://github.com/Aninuscsalas/wynncraft-101/commit/83dadc0bd296d35f6aee814eb7ef718345b1909f))
+* New Loading Screen ([83dadc0](https://github.com/Aninuscsalas/wynncraft-101/commit/83dadc0bd296d35f6aee814eb7ef718345b1909f))
+
+
+### ☀ Modpack Changes
+
+* **mods:** Added Drippy Loading Screen ([83dadc0](https://github.com/Aninuscsalas/wynncraft-101/commit/83dadc0bd296d35f6aee814eb7ef718345b1909f))
+* **mods:** Added emuNO ([83dadc0](https://github.com/Aninuscsalas/wynncraft-101/commit/83dadc0bd296d35f6aee814eb7ef718345b1909f))
+* **mods:** Added Immediately Fast ([83dadc0](https://github.com/Aninuscsalas/wynncraft-101/commit/83dadc0bd296d35f6aee814eb7ef718345b1909f))
+* **mods:** Added Indium ([83dadc0](https://github.com/Aninuscsalas/wynncraft-101/commit/83dadc0bd296d35f6aee814eb7ef718345b1909f))
+* **mods:** Added Iris ([83dadc0](https://github.com/Aninuscsalas/wynncraft-101/commit/83dadc0bd296d35f6aee814eb7ef718345b1909f))
+* **mods:** Added YOSBR ([83dadc0](https://github.com/Aninuscsalas/wynncraft-101/commit/83dadc0bd296d35f6aee814eb7ef718345b1909f))
+
+
+### ⚘ Modpack Updates
+
+* **config:** Updated Main menu ([83dadc0](https://github.com/Aninuscsalas/wynncraft-101/commit/83dadc0bd296d35f6aee814eb7ef718345b1909f))
+* **mods:** Updated mods ([83dadc0](https://github.com/Aninuscsalas/wynncraft-101/commit/83dadc0bd296d35f6aee814eb7ef718345b1909f))
+* **quilt:** Updated to 0.21.2 ([83dadc0](https://github.com/Aninuscsalas/wynncraft-101/commit/83dadc0bd296d35f6aee814eb7ef718345b1909f))
+
 ## [0.1.1](https://github.com/Aninuscsalas/wynncraft-101/compare/quilt-v0.1.0...quilt-v0.1.1) (2023-10-31)
 
 
