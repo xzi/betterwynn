@@ -19,14 +19,6 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
-  orientation = bottom-right
-  x = -198
-  action = movebutton
-  y = -13
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   orientation = mid-centered
   x = -100
@@ -42,16 +34,12 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
-  orientation = mid-centered
-  x = 103
+  identifier = %id=604382%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_quit_button
+  x = 101
   action = movebutton
-  y = 42
+  y = 0
 }
 
 customization {
@@ -65,7 +53,7 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   orientation = mid-centered
-  x = 0
+  x = 2
   action = movebutton
   y = 41
 }
@@ -76,16 +64,12 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
-  orientation = mid-centered
-  x = -125
+  identifier = %id=376382%
+  orientation = element
+  orientation_element = vanillabtn:button_compatibility_id:mc_titlescreen_options_button
+  x = -23
   action = movebutton
-  y = 42
+  y = 0
 }
 
 customization {
@@ -163,7 +147,7 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = joinserver;lobby.wynncraft.com%btnaction_splitter_fm%
-  x = 1
+  x = 2
   width = 98
   action = addbutton
   actionid = e9e31d78-53b4-4e7a-a285-be3d2820b3f11673004910908
@@ -271,5 +255,21 @@ customization {
   y = -27
   alignment = left
   height = 12
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = opengui;net.coderbot.iris.gui.screen.ShaderPackScreen%btnaction_splitter_fm%
+  description = Shaders
+  label = S
+  loopbackgroundanimations = true
+  orientation_element = 2125e65b-daf7-4cce-ad7a-49b9934d13be1673002882086
+  x = -23
+  width = 20
+  action = addbutton
+  actionid = 0b7bb83c-7423-405d-be9f-ce92659dfba61700394749974
+  y = 0
+  height = 20
 }
 

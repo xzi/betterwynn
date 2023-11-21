@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "b6cad2ead50758c4319b1c5b97d942a3bc990f69913e05c81f49e62a04d5f6df"
+hash = "da05778f402fb763dd24cea10c11c28ed305b3044847e7d1cbe31eeacc827c50"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -13,8 +13,12 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "cbd93e8f34f681b071aadadb0059b80be1e224b1d4bfd0ebe17ecf7ea22c6aed"
 
 [[files]]
+file = "config/fancymenu/customization/loading.txt"
+hash = "d174409e3199529bc774a76cbc637dff0c05da25b430e20097817cc5ea2841cc"
+
+[[files]]
 file = "config/fancymenu/customization/wynn.txt"
-hash = "75be5259f7aa99a921d88bfda65e3ffdb43356996a0b356ede9f030a972bfd8a"
+hash = "4aafad0a51e3472aad5b8cfcd1d82a66b65db353650e725c044da22082963b0d"
 
 [[files]]
 file = "config/fancymenu/menu_identifiers.db"
@@ -57,12 +61,34 @@ file = "config/fancymenu/user_variables.db"
 hash = "655d37e4978ade07621dd085b097d61dfe840cf07a226374650c4fdd407a2196"
 
 [[files]]
+file = "config/fancymenu/wynn/background.png"
+hash = "6c11323734e7281caef8bc336e6eb4571a90d0b71b44f3afd02d1c3a2ffe0fb5"
+
+[[files]]
 file = "config/fancymenu/wynn/wynncraft_logo.png"
 hash = "d6ca61843ad84e0c0f93fca5ed2a6f6ee9a8aadf898ffd312ad5323263df0448"
 
 [[files]]
 file = "config/version.txt"
-hash = "0aa4a701f0ca877746e58d0b56e783a0a0d9d3c7a6c6a17eedc7a79e23b20164"
+hash = "b4baa5c4e62a3af6b797825be3ee04ed66eabe0bc46fd221eac97b1aaba2e985"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "1433d3b049af59d534211442102a81613adab4a2922e3f8dc0252d8b7157b508"
+
+[[files]]
+file = "config/yosbr/config/ok-boomer.json5"
+hash = "488feb7357c6640da047d4359940fbae58ac37a0d25d6687d25f6ac231628b9c"
+
+[[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "bed56b908248a37d993321aac20742151570d608c6244d3d965c477586b1b12e"
+metafile = true
+
+[[files]]
+file = "mods/emuno.pw.toml"
+hash = "8f0c18360533351fff9237b803b1a91fb86cc9b00d56e61f116076e654c9f8e8"
+metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -71,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0907369c09747fe4604381ce134fe19fbb6bbf1687a8294e3defdfd33c6ea46a"
+hash = "6c6ebc716eee42c2f60899e53dfcea8ac6e374222d1eff7eff29b9f599012bb5"
 metafile = true
 
 [[files]]
@@ -82,6 +108,21 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "e00070f0db00ebcd304f8f68fd44e59ceaedbc8c27743c9c195134aae57c5fde"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "7df52a269aaabcb9c4d3ce72322177f4cb5d2e8fc8d506554fa6b6290b0ad548"
 metafile = true
 
 [[files]]
@@ -96,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "908c65f0cf2b42a1889f4d8712d5976341ec1b5c77a629dad6eee105de6c6ab3"
+hash = "889209f12eb20880b72360d87c20ed5d1715253f25a24f19196c63d9fe9f15e4"
 metafile = true
 
 [[files]]
@@ -116,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "4c68221184b1a5327b2454e46f5b7229be293163af2ef8ffb49927de9f878c86"
+hash = "2678000e798e5e029164e10daa7c69f59060d532b56852694b906bc2e7f85a35"
 metafile = true
 
 [[files]]
@@ -131,7 +172,12 @@ metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "ed90be5309c8bea56b9caaa3d59d9cfefe746e79adfdd984ba51d74d8a844279"
+hash = "559f272b4e50b2ece1f678299a89ced1ed0b12b7f904468a459c8cb2876bf739"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
@@ -141,3 +187,8 @@ hash = "3fd60d2e016b5c27261dea18b3b9bbc737893644923a0eba9e5e5cbdd1364440"
 [[files]]
 file = "servers.dat"
 hash = "fe802fe3c4fa7db905a7cb52ac50f18295d48ae695072bb8ec3b287677a64e2e"
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "5b488fd021ad1d6195dfdb63ca361be0d7a0941d0ffc6b31f31c53eccd623554"
+metafile = true

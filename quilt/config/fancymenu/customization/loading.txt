@@ -1,0 +1,67 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = config/fancymenu/wynn/background.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = false
+  x = 2
+  width = 120
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = a7aa4dd1-aa82-430c-9390-f64f528a18511700395931552
+  y = 4
+  height = 30
+}
+
+customization {
+  custom_color_hex = #000000
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = 45aba4c7-15c9-4dce-808c-ff5a3a13cdb61700395931558
+  y = -1000000
+  height = 0
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  original_pos_size_calculation = true
+  x = 140
+  width = 360
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = 6282dca7-ce05-49e1-b69c-24095939cbf21700395931558
+  y = 294
+  height = 10
+}
+
+customization {
+  path = config/fancymenu/wynn/wynncraft_logo.png
+  orientation = mid-centered
+  x = -170
+  width = 340
+  action = addtexture
+  actionid = 059f8481-b6e4-4e0c-8a1e-f608665d0d711700397087125
+  y = -60
+  height = 120
+}
+
