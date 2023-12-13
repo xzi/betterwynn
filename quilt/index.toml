@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "da05778f402fb763dd24cea10c11c28ed305b3044847e7d1cbe31eeacc827c50"
+hash = "b72758210ac15a3794c42f9102ae32eefe123bc08fb45d31a7c945c632fe1d14"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -81,6 +81,10 @@ file = "config/yosbr/config/ok-boomer.json5"
 hash = "488feb7357c6640da047d4359940fbae58ac37a0d25d6687d25f6ac231628b9c"
 
 [[files]]
+file = "config/yosbr/config/shouldersurfing.toml"
+hash = "689a1d3dac47acc9dff4a84d6e91142f54fa4146ef6409c164496c807625cd95"
+
+[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "bed56b908248a37d993321aac20742151570d608c6244d3d965c477586b1b12e"
 metafile = true
@@ -92,12 +96,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "f2f03bfada070a0dc0e1078070b830d24b1bbf18c1ecf9c7af7079047e2802e0"
+hash = "e526bf5f70f12d297bc640f5b972caf9c69a64b0fc034d2d160c8485fc80f45c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6c6ebc716eee42c2f60899e53dfcea8ac6e374222d1eff7eff29b9f599012bb5"
+hash = "5e351f182c2aae09834c49d55248703c853d224afb0d4a88502b1e91f16db7d6"
 metafile = true
 
 [[files]]
@@ -107,22 +111,17 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "e00070f0db00ebcd304f8f68fd44e59ceaedbc8c27743c9c195134aae57c5fde"
+hash = "900135b1fb9080c86e3b7ccd102a04ba2c4b88fc67ea52e1a5beeef1eb3647f3"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
-metafile = true
-
-[[files]]
-file = "mods/indium.pw.toml"
-hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
+hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7df52a269aaabcb9c4d3ce72322177f4cb5d2e8fc8d506554fa6b6290b0ad548"
+hash = "45eda4160256d4c4394a982c67167ff4b85e218834e60203128b850b38b4821b"
 metafile = true
 
 [[files]]
@@ -137,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "889209f12eb20880b72360d87c20ed5d1715253f25a24f19196c63d9fe9f15e4"
+hash = "f6a053554df5a596e3113b7add27bd88c504ff50b8cb8083e8acdc2331a30bba"
 metafile = true
 
 [[files]]
@@ -152,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "a9f4f363f18b90462ca362bbe0179a3150a801a960ff81044b7ad47aa468be73"
+hash = "20b537c055853e57f065c4a73fcae7ac62a7b4cb20cf0befe0850a0bfc99408a"
 metafile = true
 
 [[files]]
@@ -162,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "553647e9ecf92299592270db15b632d0199c0637d37cf8398af9598981dcbc28"
+hash = "ae3bcc360dcb4569d78b80c75466e803cac50479e0c1419982fb0695fa81c80a"
 metafile = true
 
 [[files]]
@@ -172,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "559f272b4e50b2ece1f678299a89ced1ed0b12b7f904468a459c8cb2876bf739"
+hash = "b758876e65fa7a649ffd929320ccf6836fcaacf3d8e30ce42fe0566693ced669"
 metafile = true
 
 [[files]]
@@ -190,5 +189,5 @@ hash = "fe802fe3c4fa7db905a7cb52ac50f18295d48ae695072bb8ec3b287677a64e2e"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "5b488fd021ad1d6195dfdb63ca361be0d7a0941d0ffc6b31f31c53eccd623554"
+hash = "345a368be43732e614d93ffb06fa8c76fa8f6060f2d105455242d15acc97e80d"
 metafile = true
