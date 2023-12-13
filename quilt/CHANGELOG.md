@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.2.1](https://github.com/Aninuscsalas/wynncraft-101/compare/quilt-v0.2.0...quilt-v0.2.1) (2023-12-13)
+
+
+### ☀ Modpack Changes
+
+* **mods:** Removed Indium (Not needed) ([69cbdb0](https://github.com/Aninuscsalas/wynncraft-101/commit/69cbdb08d1d9135df9315b397f1b8f875c265090))
+
+
+### ⚘ Modpack Updates
+
+* **mods:** Updated mods ([69cbdb0](https://github.com/Aninuscsalas/wynncraft-101/commit/69cbdb08d1d9135df9315b397f1b8f875c265090))
+* **quilt:** Updated to 0.22.1-beta4 ([69cbdb0](https://github.com/Aninuscsalas/wynncraft-101/commit/69cbdb08d1d9135df9315b397f1b8f875c265090))
+
 ## [0.2.0](https://github.com/Aninuscsalas/wynncraft-101/compare/quilt-v0.1.1...quilt-v0.2.0) (2023-11-21)
 
 
