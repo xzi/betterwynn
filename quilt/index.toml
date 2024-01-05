@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
-hash = "c17482466c51fbe36f2338454adcc3e028ed05a6c5788c5db963ece3e6921c80"
+hash = "52cb3f66f42a2b86b59ef57328223ac4a16bba5493a516472d8565d33dd99f8d"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "b758876e65fa7a649ffd929320ccf6836fcaacf3d8e30ce42fe0566693ced669"
+hash = "8f1eb8b4198ae653a0325380be17a44207dd86270119fb8a975336e4e1ccd1f6"
 metafile = true
 
 [[files]]
