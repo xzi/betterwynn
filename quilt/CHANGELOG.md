@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.2](https://github.com/Aninuscsalas/wynncraft-101/compare/quilt-v0.2.1...quilt-v0.2.2) (2024-01-05)
+
+
+### ⚘ Modpack Updates
+
+* **mods:** Updated mods ([7f188bb](https://github.com/Aninuscsalas/wynncraft-101/commit/7f188bb775361d836d391aab3bd444b588281175))
+* **quilt:** Updated to 0.23.0 ([7f188bb](https://github.com/Aninuscsalas/wynncraft-101/commit/7f188bb775361d836d391aab3bd444b588281175))
+
 ## [0.2.1](https://github.com/Aninuscsalas/wynncraft-101/compare/quilt-v0.2.0...quilt-v0.2.1) (2023-12-13)
 
 
