@@ -85,6 +85,16 @@ file = "config/yosbr/config/shouldersurfing.toml"
 hash = "689a1d3dac47acc9dff4a84d6e91142f54fa4146ef6409c164496c807625cd95"
 
 [[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "5cc5a514cc9b8567abda1d5860a8ac3afdf868906caf9bd24c6c534943e1fb4c"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "c6fb2a9c31fe297e65fbb72c20967c498860168082a5d7881487dcb1a61ac72c"
+metafile = true
+
+[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "bed56b908248a37d993321aac20742151570d608c6244d3d965c477586b1b12e"
 metafile = true
@@ -101,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5e351f182c2aae09834c49d55248703c853d224afb0d4a88502b1e91f16db7d6"
+hash = "ac6c3d4e36400abad7a4df8289f0d27d271f43b19250b4848d2a78f0a85490b1"
 metafile = true
 
 [[files]]
@@ -112,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "900135b1fb9080c86e3b7ccd102a04ba2c4b88fc67ea52e1a5beeef1eb3647f3"
+metafile = true
+
+[[files]]
+file = "mods/fuy_gg.pw.toml"
+hash = "585b9dca9246c8a4e004b4cb377710baf868772b28ca584d78c4050b54c96a38"
 metafile = true
 
 [[files]]
@@ -171,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "8f1eb8b4198ae653a0325380be17a44207dd86270119fb8a975336e4e1ccd1f6"
+hash = "adfbe071523cbf4ad9f393e68c20d54f3f46bf5bd088f4397f3e26c9c6806897"
 metafile = true
 
 [[files]]
