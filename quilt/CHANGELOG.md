@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/Aninuscsalas/wynncraft-101/compare/quilt-v1.0.0...quilt-v1.0.1) (2024-01-09)
+
+
+### ♻ Bug Fixes
+
+* **modpack:** FIx no mods in the pack? ([45bdeb7](https://github.com/Aninuscsalas/wynncraft-101/commit/45bdeb781b4d5edd0fd77d4434536e71174b37a4))
+
 ## [1.0.0](https://github.com/Aninuscsalas/wynncraft-101/compare/quilt-v0.2.2...quilt-v1.0.0) (2024-01-09)
 
 
