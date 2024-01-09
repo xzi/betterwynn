@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.0.0](https://github.com/Aninuscsalas/wynncraft-101/compare/quilt-v0.2.2...quilt-v1.0.0) (2024-01-09)
+
+
+### ★ Features
+
+* **mods:** Added Borderless Mining ([ba0d99e](https://github.com/Aninuscsalas/wynncraft-101/commit/ba0d99ea8d0b948733358b8f2ceeae5bbd216fcd))
+* **mods:** Added Cloth Config ([ba0d99e](https://github.com/Aninuscsalas/wynncraft-101/commit/ba0d99ea8d0b948733358b8f2ceeae5bbd216fcd))
+* **mods:** Added fuy.gg ([ba0d99e](https://github.com/Aninuscsalas/wynncraft-101/commit/ba0d99ea8d0b948733358b8f2ceeae5bbd216fcd))
+
+
+### ⚘ Modpack Updates
+
+* **mods:** Updated mods ([ba0d99e](https://github.com/Aninuscsalas/wynncraft-101/commit/ba0d99ea8d0b948733358b8f2ceeae5bbd216fcd))
+* **mods:** Updated to Wynntils 1.0.0 ([ba0d99e](https://github.com/Aninuscsalas/wynncraft-101/commit/ba0d99ea8d0b948733358b8f2ceeae5bbd216fcd))
+
+
+### ⛭ Miscellaneous
+
+* **main:** release 1.0.0 ([2f50ef3](https://github.com/Aninuscsalas/wynncraft-101/commit/2f50ef3b4e31d0cd565bddf4255051ce145437f6))
+
 ## [0.2.2](https://github.com/Aninuscsalas/wynncraft-101/compare/quilt-v0.2.1...quilt-v0.2.2) (2024-01-05)
 
 
