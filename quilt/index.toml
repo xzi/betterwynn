@@ -111,22 +111,22 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ac6c3d4e36400abad7a4df8289f0d27d271f43b19250b4848d2a78f0a85490b1"
+hash = "f02d05f8543f4b2c6aecaa7f070da84b08bccab0441fb2c3408fafde69fd8914"
 metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "b0ac4eea0182de620ab8b7cba600ab51bb6ecef053d4a2d1f8584900c0c6d065"
+hash = "bd885cef955a8940948099b9b623fc8d6323aafc714a654f6d5ba2e25c6aa072"
 metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "900135b1fb9080c86e3b7ccd102a04ba2c4b88fc67ea52e1a5beeef1eb3647f3"
+hash = "28f4f53cd456090809e048ce05109787ddb3bf1427c7f2f382b884cca3198b02"
 metafile = true
 
 [[files]]
 file = "mods/fuy_gg.pw.toml"
-hash = "585b9dca9246c8a4e004b4cb377710baf868772b28ca584d78c4050b54c96a38"
+hash = "cf4b9769102ac57a6e00c032d832c01788a75cb6ec990831500bebdb9574fdad"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "adfbe071523cbf4ad9f393e68c20d54f3f46bf5bd088f4397f3e26c9c6806897"
+hash = "728421100c31974848f13d12a3d3ff1dd634b1785b113c454fb5540d32a4c273"
 metafile = true
 
 [[files]]
