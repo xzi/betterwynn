@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.2](https://github.com/Aninuscsalas/wynncraft-101/compare/quilt-v1.0.1...quilt-v1.0.2) (2024-01-25)
+
+
+### ♻ Bug Fixes
+
+* **mods:** Fixed fuy.gg incompatibility issues ([9bcb9b7](https://github.com/Aninuscsalas/wynncraft-101/commit/9bcb9b7b8a96d3fe0cbde2aee83d157c864ac7a4))
+
+
+### ⚘ Modpack Updates
+
+* **mods:** Updated mods ([9bcb9b7](https://github.com/Aninuscsalas/wynncraft-101/commit/9bcb9b7b8a96d3fe0cbde2aee83d157c864ac7a4))
+
 ## [1.0.1](https://github.com/Aninuscsalas/wynncraft-101/compare/quilt-v1.0.0...quilt-v1.0.1) (2024-01-09)
 
 
