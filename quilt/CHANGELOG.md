@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.0.3](https://github.com/Aninuscsalas/wynncraft-101/compare/quilt-v1.0.2...quilt-v1.0.3) (2024-02-13)
+
+
+### ☀ Modpack Changes
+
+* **mods:** Replaced FAPI with QSL ([53576d0](https://github.com/Aninuscsalas/wynncraft-101/commit/53576d06e19b6afc820242dcb282890092c400c9))
+
+
+### ⚘ Modpack Updates
+
+* **mods:** Updated mods ([53576d0](https://github.com/Aninuscsalas/wynncraft-101/commit/53576d06e19b6afc820242dcb282890092c400c9))
+* **quilt:** Updated to 0.23.1 ([53576d0](https://github.com/Aninuscsalas/wynncraft-101/commit/53576d06e19b6afc820242dcb282890092c400c9))
+
 ## [1.0.2](https://github.com/Aninuscsalas/wynncraft-101/compare/quilt-v1.0.1...quilt-v1.0.2) (2024-01-25)
 
 
