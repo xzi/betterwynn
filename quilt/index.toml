@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "b72758210ac15a3794c42f9102ae32eefe123bc08fb45d31a7c945c632fe1d14"
+hash = "f9e5470516620d871359391e7c84d51f223b44601e6b91f7fc4a479f6ca64d59"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -70,7 +70,7 @@ hash = "d6ca61843ad84e0c0f93fca5ed2a6f6ee9a8aadf898ffd312ad5323263df0448"
 
 [[files]]
 file = "config/version.txt"
-hash = "b4baa5c4e62a3af6b797825be3ee04ed66eabe0bc46fd221eac97b1aaba2e985"
+hash = "a4729ad734a2e366e2c4ae2274138e8fbad4fd6a0b15e7c00f4f3dc815b97fd5"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -110,11 +110,6 @@ hash = "e526bf5f70f12d297bc640f5b972caf9c69a64b0fc034d2d160c8485fc80f45c"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "f02d05f8543f4b2c6aecaa7f070da84b08bccab0441fb2c3408fafde69fd8914"
-metafile = true
-
-[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "bd885cef955a8940948099b9b623fc8d6323aafc714a654f6d5ba2e25c6aa072"
 metafile = true
@@ -131,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
+hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
 metafile = true
 
 [[files]]
@@ -170,6 +165,11 @@ hash = "20b537c055853e57f065c4a73fcae7ac62a7b4cb20cf0befe0850a0bfc99408a"
 metafile = true
 
 [[files]]
+file = "mods/qsl.pw.toml"
+hash = "974c16b73d507ab34d0105fbb1ebadfe839eb29cddeb49b02bed72d27429d08e"
+metafile = true
+
+[[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
 hash = "2678000e798e5e029164e10daa7c69f59060d532b56852694b906bc2e7f85a35"
 metafile = true
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "728421100c31974848f13d12a3d3ff1dd634b1785b113c454fb5540d32a4c273"
+hash = "ecc5f07a1ed204d61d70ed403b33bd27d914e676ff7692513f51503b8cbb8c7c"
 metafile = true
 
 [[files]]
