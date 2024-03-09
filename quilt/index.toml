@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "f9e5470516620d871359391e7c84d51f223b44601e6b91f7fc4a479f6ca64d59"
+hash = "f766cbc0cc9bc8dcef556f506a398c86e4384f2eac0738ec33b37188b8bc90d7"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -70,7 +70,7 @@ hash = "d6ca61843ad84e0c0f93fca5ed2a6f6ee9a8aadf898ffd312ad5323263df0448"
 
 [[files]]
 file = "config/version.txt"
-hash = "a4729ad734a2e366e2c4ae2274138e8fbad4fd6a0b15e7c00f4f3dc815b97fd5"
+hash = "27018a3243d614a00fd5f645e403776cf0e2be2a06b43d1cf92cfdd49cf80d55"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/fuy_gg.pw.toml"
-hash = "cf4b9769102ac57a6e00c032d832c01788a75cb6ec990831500bebdb9574fdad"
+hash = "dea0a8fc6440562e757d9d57bd2553f63bc037d169c91283e91c60cdf1e56415"
 metafile = true
 
 [[files]]
@@ -140,6 +140,11 @@ hash = "b60b47aaffed67b9b59b99f776b9f261281ac0d5b46898edd4b69904ff98671e"
 metafile = true
 
 [[files]]
+file = "mods/libzoomer.pw.toml"
+hash = "bc0bfffefcb71527212cfe568d844ee441e5e3fbaeed5733a0b9652cfe10ce16"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "ed27ecb297016accc41e9894b6e11d6c46b455211e358afa6218ce629ef56978"
 metafile = true
@@ -155,23 +160,18 @@ hash = "52cb3f66f42a2b86b59ef57328223ac4a16bba5493a516472d8565d33dd99f8d"
 metafile = true
 
 [[files]]
-file = "mods/ok-boomer.pw.toml"
-hash = "2390504b56605e6464ecddda031cb221d46871437ecb4035783feb67faa1bff1"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "20b537c055853e57f065c4a73fcae7ac62a7b4cb20cf0befe0850a0bfc99408a"
+file = "mods/ok-zoomer.pw.toml"
+hash = "0645322988ede8ef24399aa5e4147f5ffb9140edc4ea6a4c368daf89bcd3418a"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "974c16b73d507ab34d0105fbb1ebadfe839eb29cddeb49b02bed72d27429d08e"
+hash = "bf1bab96c0cce9b115210004586ce9fc7e5cf55bc0fb695e055e7bee75432a01"
 metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "2678000e798e5e029164e10daa7c69f59060d532b56852694b906bc2e7f85a35"
+hash = "c1950c6880c80e9a4301b81a0004ffece2f69a8035de637fc1648b4df0ec4018"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "ecc5f07a1ed204d61d70ed403b33bd27d914e676ff7692513f51503b8cbb8c7c"
+hash = "edbb4fadeb034bf5eb5c4ac1d735c5bb09a54075116131c150fd223dea6aa702"
 metafile = true
 
 [[files]]
