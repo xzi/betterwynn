@@ -1,5 +1,27 @@
 # Changelog
 
+## 1.1.0 (2024-03-10)
+
+
+### Features
+
+* Remove Forge support ([2a234de](https://github.com/Aninuscsalas/wynncraft-101/commit/2a234de8d58b9a4077943b2fc441b7a494c3eaa7))
+* **wynntils:** New NPC Dialogue Overlay ([20e27e1](https://github.com/Aninuscsalas/wynncraft-101/commit/20e27e10db5d5348c1d8c97a35a3ae80432ec601))
+
+
+### Bug Fixes
+
+* **config:** Fix Ok Boomer Crash ([2a234de](https://github.com/Aninuscsalas/wynncraft-101/commit/2a234de8d58b9a4077943b2fc441b7a494c3eaa7))
+* **config:** Set soundCategory_music to 0 ([2a234de](https://github.com/Aninuscsalas/wynncraft-101/commit/2a234de8d58b9a4077943b2fc441b7a494c3eaa7))
+* **mc-modpack-kit:** Fix changelog ([20e27e1](https://github.com/Aninuscsalas/wynncraft-101/commit/20e27e10db5d5348c1d8c97a35a3ae80432ec601))
+
+
+### Miscellaneous Chores
+
+* **main:** release 0.1.0 ([d822604](https://github.com/Aninuscsalas/wynncraft-101/commit/d8226048949c8f9ffa37e7a9776ff49dba46c595))
+* **main:** release 1.0.0 ([2f50ef3](https://github.com/Aninuscsalas/wynncraft-101/commit/2f50ef3b4e31d0cd565bddf4255051ce145437f6))
+* **main:** release 1.1.0 ([14beccf](https://github.com/Aninuscsalas/wynncraft-101/commit/14beccf72d54e1660037d63c7fc25db6233cec60))
+
 ## [1.0.3](https://github.com/Aninuscsalas/wynncraft-101/compare/quilt-v1.0.2...quilt-v1.0.3) (2024-02-13)
 
 
