@@ -10,3 +10,5 @@
 <hr>
 
 <center>This modpack is fan made! Unaffiliated with Mojang or Wynncraft<center>
+
+Made Using mc-modpack-kit
