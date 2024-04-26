@@ -70,7 +70,7 @@ hash = "d6ca61843ad84e0c0f93fca5ed2a6f6ee9a8aadf898ffd312ad5323263df0448"
 
 [[files]]
 file = "config/version.txt"
-hash = "27018a3243d614a00fd5f645e403776cf0e2be2a06b43d1cf92cfdd49cf80d55"
+hash = "7f59d5240b630a4fc78d798d4d410701220d82f406ddc77f806ed5843ce9a3f3"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "bd885cef955a8940948099b9b623fc8d6323aafc714a654f6d5ba2e25c6aa072"
+hash = "c576dc9bb8ea7d17f9da1635b0ba4d0393507c80924a337d1f26ca3b2d026932"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "b60b47aaffed67b9b59b99f776b9f261281ac0d5b46898edd4b69904ff98671e"
+hash = "3f19551542bb40a3ae7f4df5dcf6ae8367fe736902989c24432bb6e01178e09a"
 metafile = true
 
 [[files]]
@@ -162,12 +162,12 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "18b26119e3f855612785a9783a1c19a2fca076c763696565fe1015a90ff3d8c5"
+hash = "f85de6aee1a3d7044c41237c659da5fc80597b2d86a0803a6107c3eedaec2e14"
 metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "70d84a236b035b9974d8c791ce9dc17bd1a06bd1b6de26ea882b279960b20813"
+hash = "4416dd7394f31c27c79c6e8dd00ab31d26efc02bea76b33f007510c73cac2d65"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/wynntils.pw.toml"
-hash = "c94b6a646ba1b7eca2ed69fd5a219d0846e19c46a1341d5d21e15f5db2dde4bc"
+hash = "e7ac1c9c810196d0e4256daa904c696f13b4dd1782455f05931c66aaea6398cb"
 metafile = true
 
 [[files]]
