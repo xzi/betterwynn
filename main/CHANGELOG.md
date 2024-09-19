@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.2.1 (Beta) (2024-09-19)
+
+### ⚘ Modpack Updates
+
+* **mods:** Updated to Wynntils 2.2.3
+* **minecraft:** Updated to 1.21.1
+* **fabric:** Updated to 0.16.5
+* **mods:** Updated mods
+
+
 ## 1.2.0 (Beta) (2024-08-22)
 
 ### ★ Features

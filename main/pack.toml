@@ -1,13 +1,16 @@
 name = "Wynncraft 101"
 author = "aninuscsalas"
-version = "1.2.0"
+version = "1.2.1b"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "00c2ee61db27e17980ccf65c904560642e5f523883eb6c553833c387f20886e0"
+hash = "ffb987916167dcd3720547bda543e021fba5b38e9731d707e63c5e60a9b8097d"
 
 [versions]
-fabric = "0.16.0"
-minecraft = "1.21"
+fabric = "0.16.5"
+minecraft = "1.21.1"
+
+[options]
+acceptable-game-versions = ["1.21"]
