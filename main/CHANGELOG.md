@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.2.2 (Beta) (2024-09-20)
+
+### ♻ Bug Fixes
+
+* **wynntils:** Fixed a bug where users can submit custom, unvalidated crafted item names. [Context](https://discord.com/channels/394189072635133952/424990647309697026/1286440063017816106) 
+
+### ⚘ Modpack Updates
+
+* **mods:** Updated mods
+
+
 ## 1.2.1 (Beta) (2024-09-19)
 
 ### ⚘ Modpack Updates
