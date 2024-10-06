@@ -1,5 +1,14 @@
 # Changelog
 
+
+## 1.2.3 (Beta) (2024-10-06)
+
+### ⚘ Modpack Updates
+
+* **mods:** Updated mods
+
+
+
 ## 1.2.2 (Beta) (2024-09-20)
 
 ### ♻ Bug Fixes
