@@ -1,6 +1,50 @@
 # Changelog
 
 
+## [1.1.0](https://github.com/xzi/betterwynn/compare/main-v0.1.0...main-v1.1.0) (2024-11-15)
+
+
+### ★ Features
+
+* Remove Forge support ([2a234de](https://github.com/xzi/betterwynn/commit/2a234de8d58b9a4077943b2fc441b7a494c3eaa7))
+* **wynntils:** New NPC Dialogue Overlay ([20e27e1](https://github.com/xzi/betterwynn/commit/20e27e10db5d5348c1d8c97a35a3ae80432ec601))
+
+
+### ♻ Bug Fixes
+
+* **config:** Fix Ok Boomer Crash ([2a234de](https://github.com/xzi/betterwynn/commit/2a234de8d58b9a4077943b2fc441b7a494c3eaa7))
+* **config:** Set soundCategory_music to 0 ([2a234de](https://github.com/xzi/betterwynn/commit/2a234de8d58b9a4077943b2fc441b7a494c3eaa7))
+* **mc-modpack-kit:** Fix changelog ([20e27e1](https://github.com/xzi/betterwynn/commit/20e27e10db5d5348c1d8c97a35a3ae80432ec601))
+
+
+### ☀ Modpack Changes
+
+* **mods:** Added ModernFix ([2a234de](https://github.com/xzi/betterwynn/commit/2a234de8d58b9a4077943b2fc441b7a494c3eaa7))
+* **mods:** Replaced Borderless Mining with Cubes Without Borders ([1cbf5f4](https://github.com/xzi/betterwynn/commit/1cbf5f4fa43b1c62bbd9b4c81ccab3ac95206430))
+* **mods:** Replaced Ok Zoomer with Ok Boomer ([2a234de](https://github.com/xzi/betterwynn/commit/2a234de8d58b9a4077943b2fc441b7a494c3eaa7))
+* **mods:** Replaced OkBoomer with OkZoomer ([20e27e1](https://github.com/xzi/betterwynn/commit/20e27e10db5d5348c1d8c97a35a3ae80432ec601))
+* **mods:** Replaced QSL with Fabric API ([2a234de](https://github.com/xzi/betterwynn/commit/2a234de8d58b9a4077943b2fc441b7a494c3eaa7))
+
+
+### ⚘ Modpack Updates
+
+* **minecraft:** Update to 1.20.2 ([2a234de](https://github.com/xzi/betterwynn/commit/2a234de8d58b9a4077943b2fc441b7a494c3eaa7))
+* **mods:** Update mods ([2a234de](https://github.com/xzi/betterwynn/commit/2a234de8d58b9a4077943b2fc441b7a494c3eaa7))
+* **mods:** Updated mods ([63c9c35](https://github.com/xzi/betterwynn/commit/63c9c35df355081864a73e40dcbfcc163c9194da))
+* **mods:** Updated mods ([4c66705](https://github.com/xzi/betterwynn/commit/4c66705ba944fbf2bfe3aad892f1cedb70a9984c))
+* **mods:** Updated mods ([1cbf5f4](https://github.com/xzi/betterwynn/commit/1cbf5f4fa43b1c62bbd9b4c81ccab3ac95206430))
+* **mods:** Updated mods ([20e27e1](https://github.com/xzi/betterwynn/commit/20e27e10db5d5348c1d8c97a35a3ae80432ec601))
+* **mods:** Updated to Wynntils 1.1.0 ([20e27e1](https://github.com/xzi/betterwynn/commit/20e27e10db5d5348c1d8c97a35a3ae80432ec601))
+* **quilt:** Update to 0.21.0 ([2a234de](https://github.com/xzi/betterwynn/commit/2a234de8d58b9a4077943b2fc441b7a494c3eaa7))
+* **quilt:** Updated to 0.24.0 ([20e27e1](https://github.com/xzi/betterwynn/commit/20e27e10db5d5348c1d8c97a35a3ae80432ec601))
+
+
+### ⛭ Miscellaneous
+
+* **main:** release 0.1.0 ([d822604](https://github.com/xzi/betterwynn/commit/d8226048949c8f9ffa37e7a9776ff49dba46c595))
+* **main:** release 1.0.0 ([2f50ef3](https://github.com/xzi/betterwynn/commit/2f50ef3b4e31d0cd565bddf4255051ce145437f6))
+* **main:** release 1.1.0 ([14beccf](https://github.com/xzi/betterwynn/commit/14beccf72d54e1660037d63c7fc25db6233cec60))
+
 ## 1.2.4 (Beta) (2024-10-26)
 
 ### ⚘ Modpack Updates
