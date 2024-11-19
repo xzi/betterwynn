@@ -1,6 +1,18 @@
 # Changelog
 
 
+## 1.2.5 (2024-11-19)
+
+### ★ Features
+
+* **wynntils:** Wynntils 2.4.0 is compatible with Wynncraft 2.1.1 
+
+### ⚘ Modpack Updates
+
+* **mods:** Updated mods
+* **loader:** Fabric loader is staying so its now stable i guess
+
+
 ## 1.2.4 (Beta) (2024-10-26)
 
 ### ⚘ Modpack Updates
